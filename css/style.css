@@ -4,17 +4,44 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #bbbb;
   color: #333;
 }
 
 header {
-  background-color: #2222;
+  background-color: #000;
   color: #ffff;
   padding: 20px;
   text-align: center;
 }
 
-.header__container{
+.header__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 
+.foto_perfil {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+/* Arquivo de estilo HTML */
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer*/
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+  color: #ffff;
 }
