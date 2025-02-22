@@ -4,3 +4,4 @@ E aí! Fico feliz que esteja por aqui. Me chamo Paulo Vinícius, tenho 19 anos e
 
 # hard skills *
  Dominio com HTML, CSS, JavaScript de forma intermediaria.
+ 
