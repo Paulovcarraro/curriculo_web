@@ -30,4 +30,8 @@ E aí! Fico feliz que esteja por aqui. Me chamo Paulo Vinícius, tenho 19 anos e
 ### Publicação
 - Salvei o currículo em um repositório do GitHub para fácil acesso e compartilhamento, mas também pode me permitir documentar passo a passo de como  o formei, compartilhando minha experiência, podendo também fazer alterações de uma forma melhor e controlada.
 
+## Contato
 
+**E-mail:** paulovcarraro@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/paulo-vinicius-carraro-250619348
