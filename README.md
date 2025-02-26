@@ -4,7 +4,9 @@ E aí! Fico feliz que esteja por aqui. Me chamo Paulo Vinícius, tenho 19 anos e
 
 # Hard Skills 
 **Front-End:** HTML5, CSS3, JavaScript
+
 **Controle de versão:** Git e GitHub
+
 **Ferramentas:** Visual Studio Code, Excel, PowerPoint, Word
 
 # Soft Skills 
