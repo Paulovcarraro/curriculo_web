@@ -15,7 +15,7 @@ E aí! Fico feliz que esteja por aqui. Me chamo Paulo Vinícius, tenho 19 anos e
 # Criação do Currículo
 
 ### Planejamento
-- Defini o objetivo do currículo e quais informações seriam mais relevantes..
+- Defini o objetivo do currículo e quais informações seriam mais relevantes.
 
 ### Estruturação
 - Organizei em seções para manter uma aparência visualmente melhor e também para manter a organização. As seções são: Sobre mim, experiência profissional, educação e habilidades.
@@ -23,7 +23,7 @@ E aí! Fico feliz que esteja por aqui. Me chamo Paulo Vinícius, tenho 19 anos e
 ### Desenvolvimento HTML e CSS
 **HTML:** Criei a estrutura básica do currículo usando elementos como `<header>`, `<section>` e `<footer>`. Além disso, utilizei várias  `<div>` que permitiram deixar o código mais organizado e  facilitaram a aplicação de estilos e a manipulação do layout.
 
-**CSS**: Estilizei o currículo para torná-lo visualmente atraente, utilizando alguns comandos que aprendi recentemente para deixa-lo de uma  forma que ficasse atraente visualemnte e combinasse com meus gostos e foto de perfil.
+**CSS**: Estilizei o currículo para torná-lo visualmente atraente, utilizando alguns comandos que aprendi recentemente para deixa-lo de uma  forma que ficasse atraente visualmente e combinasse com meus gostos e foto de perfil.
 
 ### Revisão e Testes
 - Revisei o conteúdo, garantindo que não houvesse erros de digitação e de layout.
